@@ -1,5 +1,5 @@
 # Analysis-of-EPL
-In this project I analyse the most prestigious football league in England - English Premier League.
+In this project I analysed the most prestigious football league in England - English Premier League.
 
 The dataset taken from https://sports-statistics.com/sports-data/soccer-datasets/.
 
